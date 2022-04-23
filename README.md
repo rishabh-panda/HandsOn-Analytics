@@ -18,3 +18,11 @@ In other words, a grouped bar graph is a type of bar graph in which different se
 <br /> <br />
 
 ![image](https://user-images.githubusercontent.com/80598737/164884004-077004f7-5ee8-4bbf-9820-e719c03d9221.png)
+
+### 1.3. Stacked Bar Chart
+A stacked bar graph (or stacked bar chart) is a chart that uses bars to show comparisons between categories of data, but with ability to break down and compare parts of a whole. Each bar in the chart represents a whole, and segments in the bar represent different parts or categories of that whole.
+<br />
+Stacked bar charts are not suited to data sets having both positive and negative values since stacked bar charts present the information in the same sequence on each bar.
+<br /> <br />
+
+![image](https://user-images.githubusercontent.com/80598737/164884296-facc95d6-ddfb-4012-bedc-e9e9500d0090.png)
