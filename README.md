@@ -26,3 +26,36 @@ Stacked bar charts are not suited to data sets having both positive and negative
 <br /> <br />
 
 ![image](https://user-images.githubusercontent.com/80598737/164884296-facc95d6-ddfb-4012-bedc-e9e9500d0090.png)
+
+### 1.4. Line Chart
+A line graph is a unique graph which is commonly used in statistics. It represents the change in a quantity with respect to another quantity. This variation is usually plotted in a two-dimensional XY plane. If the relation including any two measures can be expressed utilizing a straight line in a graph, then such graphs are called line charts or line graphs.
+<br /> <br />
+
+![image](https://user-images.githubusercontent.com/80598737/164884325-6532ed96-3001-4dd5-8215-7e8125a392a1.png)
+
+
+### 1.5. Multi-Line Chart
+![image](https://user-images.githubusercontent.com/80598737/164884351-07a80c7c-e6aa-4548-8743-04d91a9c4532.png)
+
+### 1.6 Pie Chart
+A pie chart is a circular statistical graphic, which is divided into slices to illustrate numerical proportion. In a pie chart, the arc length of each slice is proportional to the quantity it represents. Pie charts are often used in business. Examples include showing percentages of types of customers, percentage of revenue from different products, and profits from different countries. Pie charts can be helpful for showing the relationship of parts to the whole when there are a small number of levels.
+<br /> <br />
+
+![image](https://user-images.githubusercontent.com/80598737/164884380-a4c13bec-9220-4804-855b-60850ac568d1.png)
+
+
+### 1.7 Exploded Pie Chart
+![image](https://user-images.githubusercontent.com/80598737/164884402-228e0140-be36-46d4-b0ed-7affabd651af.png)
+
+### 1.8 Scatter Plot
+A scatter plot is a diagram drawn between two distributions of variables X and Y on a two dimensional plane. Scatter plot is used as an initial screening tool while analyzing two variables for any relationship (linear, non-linear, inverse relationships) that may exist between them.
+<br /> <br />
+
+![image](https://user-images.githubusercontent.com/80598737/164884432-cf0c3308-e9e9-4602-8922-84b34b352650.png)
+
+### 1.9 Bubble Chart
+Bubble charts display data as a cluster of circles. The required data to create bubble chart needs to have the xy coordinates, size of the bubble and the colour of the bubbles. The colours can be supplied by the library itself. It is an extension of the scatter plot used to look at relationships between three numeric variables. Each dot in a bubble chart corresponds with a single data point, and the variables' values for each point are indicated by horizontal position, vertical position, and dot size.
+<br /> <br />
+
+![image](https://user-images.githubusercontent.com/80598737/164884457-aedc2725-99a5-4baf-bffc-c50da98562d6.png)
+
