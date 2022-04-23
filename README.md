@@ -11,7 +11,6 @@ It shows comparisons among discrete categories. One axis of the chart shows the 
 
 ![image](https://user-images.githubusercontent.com/80598737/164883776-2309b6ab-afb4-485e-859b-296ee7b8dd93.png)
 
-<br />
 ### 1.2. Grouped Bar Chart
 The grouped bar graph is also called the clustered bar graph, which is used to represent the discrete value for more than one object that shares the same category. In this type of bar chart, the total number of instances are combined into a single bar.
 <br />
