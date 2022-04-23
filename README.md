@@ -44,13 +44,13 @@ A pie chart is a circular statistical graphic, which is divided into slices to i
 ![image](https://user-images.githubusercontent.com/80598737/164884610-2319d8d1-47b4-4208-b687-fbda8d9fbd2b.png)
 
 
-### 1. 8. Scatter Plot
+### 1. 7. Scatter Plot
 A scatter plot is a diagram drawn between two distributions of variables X and Y on a two dimensional plane. Scatter plot is used as an initial screening tool while analyzing two variables for any relationship (linear, non-linear, inverse relationships) that may exist between them.
 <br /> <br />
 
 ![image](https://user-images.githubusercontent.com/80598737/164884432-cf0c3308-e9e9-4602-8922-84b34b352650.png)
 
-### 1. 9. Bubble Chart
+### 1. 8. Bubble Chart
 Bubble charts display data as a cluster of circles. The required data to create bubble chart needs to have the xy coordinates, size of the bubble and the colour of the bubbles. The colours can be supplied by the library itself. It is an extension of the scatter plot used to look at relationships between three numeric variables. Each dot in a bubble chart corresponds with a single data point, and the variables' values for each point are indicated by horizontal position, vertical position, and dot size.
 <br /> <br />
 
